@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "gposu": "https://github.com/juan-carlos-trimino/gposu.git",
+    "gps3storage": "https://github.com/juan-carlos-trimino/gps3storage.git",
+    "gpmiddlewares": "https://github.com/juan-carlos-trimino/gpmiddlewares.git",
+    "gpsessions": "https://github.com/juan-carlos-trimino/gpsessions.git",
+    "gplogger": "https://github.com/juan-carlos-trimino/gplogger.git"
+  }
+}
