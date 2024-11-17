@@ -1,9 +1,9 @@
 {
   "projects": {
-    "gposu": "https://github.com/juan-carlos-trimino/gposu.git",
-    "gps3storage": "https://github.com/juan-carlos-trimino/gps3storage.git",
-    "gpmiddlewares": "https://github.com/juan-carlos-trimino/gpmiddlewares.git",
-    "gpsessions": "https://github.com/juan-carlos-trimino/gpsessions.git",
-    "gplogger": "https://github.com/juan-carlos-trimino/gplogger.git"
+    "go-os": "https://github.com/juan-carlos-trimino/go-os.git",
+    "go-s3storage": "https://github.com/juan-carlos-trimino/go-s3storage.git",
+    "go-middlewares": "https://github.com/juan-carlos-trimino/go-middlewares.git",
+    "go-sessions": "https://github.com/juan-carlos-trimino/go-sessions.git",
+    "go-logger": "https://github.com/juan-carlos-trimino/go-logger.git"
   }
 }

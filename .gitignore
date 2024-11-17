@@ -1,5 +1,5 @@
-/gposu/
-/gps3storage/
-/gpmiddlewares/
-/gpsessions/
-/gplogger/
+/go-os/
+/go-s3storage/
+/go-middlewares/
+/go-sessions/
+/go-logger/
