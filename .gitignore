@@ -1,5 +1,11 @@
-/go-os/
-/go-s3storage/
-/go-middlewares/
-/go-sessions/
-/go-logger/
+# Ignore everything.
+**
+
+# But include these...
+!.vscode/
+.vscode/*
+!.vscode/settings.json
+!.gitignore
+!.meta
+!LICENSE
+!README.md
