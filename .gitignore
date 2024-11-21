@@ -2,9 +2,6 @@
 **
 
 # But include these...
-!.vscode/
-.vscode/*
-!.vscode/settings.json
 !.gitignore
 !.meta
 !LICENSE
