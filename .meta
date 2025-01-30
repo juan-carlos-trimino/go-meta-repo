@@ -1,9 +1,9 @@
 {
   "projects": {
-    "go-os": "https://github.com/juan-carlos-trimino/go-os.git",
-    "go-s3storage": "https://github.com/juan-carlos-trimino/go-s3storage.git",
-    "go-middlewares": "https://github.com/juan-carlos-trimino/go-middlewares.git",
-    "go-sessions": "https://github.com/juan-carlos-trimino/go-sessions.git",
-    "go-logger": "https://github.com/juan-carlos-trimino/go-logger.git"
+    "go-os": "git@github.com:juan-carlos-trimino/go-os.git",
+    "go-s3storage": "git@github.com:juan-carlos-trimino/go-s3storage.git",
+    "go-middlewares": "git@github.com:juan-carlos-trimino/go-middlewares.git",
+    "go-sessions": "git@github.com:juan-carlos-trimino/go-sessions.git",
+    "go-logger": "git@github.com:juan-carlos-trimino/go-logger.git"
   }
 }
